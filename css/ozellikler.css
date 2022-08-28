@@ -1,0 +1,95 @@
+/********************************************* ÜST BAR *********************************************/
+
+.ust-bar {
+    height: 44px;
+    display: flex;
+    background-color: #313132;
+    align-items: flex-end;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li a:hover {
+    color: #fff;
+}
+
+ul {
+    margin-left: 750px;
+    list-style: none;
+}
+
+li {
+    width: 75px;
+    display: inline-block;
+}
+
+li a {
+    width: 20%;
+    color: #d7d7d7;
+    text-decoration: none;
+    text-align: center;
+}
+
+/********************************************* SATIN AL DİVİ *********************************************/
+
+.satin-al-div {
+    background-color: #fbfbfd;
+    text-align: center;
+    font-family: Verdana, Tahoma, sans-serif;
+    margin-bottom: 10px;
+}
+
+.satin-al-div h1 {
+    font-size: 50px;
+}
+
+.satin-al-div a {
+    color: #1e77d1;
+    text-decoration: none;
+    padding-right: 20px;
+}
+
+.satin-al-div a:hover {
+    text-decoration: underline;
+}
+
+/********************************************* ÜNİ SÜPER GÜÇ DİVİ *********************************************/
+
+.uni-super-guc-div {
+    background-color: #f5f5f7;
+    text-align: center;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.uni-super-guc-div h1 {
+    display: inline-block;
+    font-style: italic;
+    font-size: 50px;
+    padding-right: 10px;
+}
+
+.uni-super-guc-div a {
+    color: #1e77d1;
+    text-decoration: none;
+}
+
+.uni-super-guc-div a:hover {
+    text-decoration: underline;
+}
+
+/********************************************* WATCH DİVİ *********************************************/
+
+.watch-div {
+    background-color: #fbfbfd;
+    text-align: center;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.watch-div a {
+    color: #1e77d1;
+    text-decoration: none;
+    padding-right: 20px;
+}
+
+.watch-div a:hover {
+    text-decoration: underline;
+}
