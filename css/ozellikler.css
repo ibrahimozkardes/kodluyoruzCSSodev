@@ -1,3 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.font-fam {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn {
+    background-color: #0071e3;
+    color: #fff;
+    border-radius: 18px;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+.btn:hover {
+    background-color: #178bff;
+}
+
+.detay-bilgi-a {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #1e77d1;
+}
+
+.detay-bilgi-a:hover {
+    text-decoration: underline;
+}
+
 /********************************************* ÜST BAR *********************************************/
 
 .ust-bar {
@@ -6,6 +38,8 @@
     background-color: #313132;
     align-items: flex-end;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-bottom: 3px;
 }
 
 li a:hover {
@@ -58,6 +92,7 @@ li a {
     background-color: #f5f5f7;
     text-align: center;
     font-family: Verdana, Tahoma, sans-serif;
+    margin-bottom: 10px;
 }
 
 .uni-super-guc-div h1 {
@@ -79,6 +114,7 @@ li a {
 /********************************************* WATCH DİVİ *********************************************/
 
 .watch-div {
+    padding-top: 10px;
     background-color: #fbfbfd;
     text-align: center;
     font-family: Verdana, Tahoma, sans-serif;
